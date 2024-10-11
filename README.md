@@ -1,5 +1,5 @@
 # Textitor
-This is the official source code for my personal AI-integrated word processor, called Textitor (Tex - ti - tor).
+This is the official source code for my AI-integrated word processor, called Textitor (Tex - ti - tor).
 
 # UPDATES
 1. Textitor is now integrated into SupeNux's CLI NuxShell! Go to it's GitHub page here: https://www.github.com/gautamritvik/SupeNux-NuxShell

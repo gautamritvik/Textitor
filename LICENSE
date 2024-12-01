@@ -1,21 +1,32 @@
-MIT License
+(Note: This license was made as a custom license to fit the creator's choice of license conditions.)
 
-Copyright (c) 2024 Ritvik Gautam
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+(Project page to Textitor: https://www.github.com/gautamritvik/Textitor)
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Copyright (C) 2024, Ritvik Gautam. All rights reserved.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Please note that the word “software” in this document means Textitor, which was made by Ritvik Gautam, that the word “modified” in this document means direct modifications and derivative works, and the word “companies/organizations” in this document means the commercial businesses that will use this software (Textitor).
+
+The OS this license is directed to, Textitor is subject to absolute NO warranty under applicable law.
+
+The licensee has the absolute freedom to view, modify, and use this software, but directly getting the code from the Textitor app itself (not from the source code, the released app with all the internal info) is STRICTLY prohibited, and if they DO indeed get the code directly from the Textitor app itself, their freedom to view, modify, and use the software shall be revoked, as the direct app code contains many internal information.
+
+This license agreement shall be governed by and construed following the laws of the state of Florida in the United States of America. Any disputes arising from this agreement shall be subjected to the jurisdiction of the courts located in the state of Florida in the United States of America. 
+
+NOTICE: You can only view, modify, and use this software ONLY if you agree to follow the set of rules in this license agreement. If you do not, please do not view, modify, or use this software in any way. If you have to use this software for office or other purposes, please let your employing company/organization or mandating person/entity know that you don't agree to the license of Textitor, as they have already agreed to the license (for office computing in their offices, if they are a company/organization).
+
+Permission is granted to any person or entity to view, modify, and use this software only if they work according to the following conditions:
+
+1. Modification and Use
+  If any modified version of this software is released to the public, they have to release the source code to the public for absolutely NO price in ANY currency, and the modifier has no option to sell the modified software for any currency. If someone uses the source code of Textitor/Textitor it self, modify it, and release it to the public, they have to state somewhere that everyone can see and state that they made their based on Ritvik Gautam's Textitor.
+  The licensee cannot, under any circumstances, distribute closed-source versions of the software. Any modified version of this software has to remain open-source under this license.
+2. Commercial Use
+  Suppose any companies or organizations want to use this software for commercial purposes, including using it in any business environment. In that case, they will need to get permission (an agreement, which may include a contact form or email confirmation) from Ritvik Gautam. Still, at the same time, as stated in "1. Modification and Use", the companies/organizations have to keep any modified version of the software and the source code of it free and open-source from their side. They also have to pay a monthly fee. The fee price will vary among different companies/organizations because of the nature and environment the software will be used in (for small businesses, for flexibility, they have to pay ~$50-~$100. As for bigger companies, like Microsoft, it can range from ~$10,000 to more.). How Ritvik Gautam will know if they paid their monthly fee is that every month, they have to give him an email/text message for proof that they’ve successfully paid their monthly fee. Ritvik Gautam will still expect attribution of the software from the companies/organizations. How to follow attribution rules is stated in "3. Attribution".
+  If the companies/organizations fail to pay the fees on time, they will have to pay an extra fee as a penalty (e.g., small companies = ~$50. Big companies = ~$5,000 - ~$10,000+.), and if they don’t pay on time for more than two times in a row, they could have their permission to use Textitor revoked. When the companies/organizations use the software, they have to make at least one open-source contribution to Textitor, like making advancements in the source code or making bug fixes (they can do this on GitHub). They also have to donate to at least one charity of any kind that supports good causes, helps different types of life in need, and more (e.g., St. Judes Children's Research Hospital, Feeding America, Direct Relief, Good 360, United Way Worldwide, etc.) and the amount they have to pay depends on the nature and environment the software is being used in (e.g., small companies = ~$100+. Big companies = ~$1,000+.).
+3. Attribution
+  Any modified released version of the software has to be stated somewhere that everyone can see and state that they made their text processor based on Ritvik Gautam's processor Textitor.
+  Companies/Organizations also have to state somewhere that everyone can see and state that they use Ritvik Gautam's text processor Textitor for office and other purposes.
+4. Liability
+  The software, “as is,” without any warranty of kind, expressed or implied, including but not limited to the warranties of merchantability, fitness for a specific purpose, and noninfringement. This means that if damage has occurred with the system for someone, then Ritvik Gautam is NOT liable for ANY of the damages, especially if it is caused by third-party users (companies/organizations, etc.).
+
+By using, modifying, or distributing this software, the Licensee automatically agrees to work by the terms of this license.

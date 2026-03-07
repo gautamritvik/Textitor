@@ -37,7 +37,7 @@ def _sf_draw(canvas, frame, w, h, state):
         canvas.create_oval(px - s[3], py - s[3], px + s[3], py + s[3],
                            fill=c, outline="", tags="anim_layer")
 
-_MCHARS = "ｦｧｨｩｪｫｬｭｮｯｰｱｲｳｴｵｶｷｸｹｺｻｼｽｾｿﾀﾁﾂﾃﾄﾅﾆﾇﾈﾉﾊﾋﾌﾍﾎﾏﾐﾑﾒﾓﾔﾕﾖﾗﾘﾙﾚﾛﾜﾝ0123456789ABCDEF"
+MCHARS = "ｦｧｨｩｪｫｬｭｮｯｰｱｲｳｴｵｶｷｸｹｺｻｼｽｾｿﾀﾁﾂﾃﾄﾅﾆﾇﾈﾉﾊﾋﾌﾍﾎﾏﾐﾑﾒﾓﾔﾕﾖﾗﾘﾙﾚﾛﾜﾝ0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 
 def _mx_init():
     return {"cols": {}}
@@ -61,7 +61,7 @@ def _mx_draw(canvas, frame, w, h, state):
             if 0 <= cy <= h:
                 g = int(200 * (1 - i / length))
                 color = "#ccffcc" if i == 0 else f"#00{g:02x}00"
-                canvas.create_text(x, cy, text=random.choice(_MCHARS),
+                canvas.create_text(x, cy, text=random.choice(MCHARS),
                                    fill=color, font=("Courier", 9, "bold"),
                                    tags="anim_layer")
         cols[c][0] += spd

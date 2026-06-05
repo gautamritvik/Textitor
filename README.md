@@ -17,4 +17,5 @@ How Textitor works behind the scenes is that, first of all, Textitor is made com
   - Aurora
   - Particles
   - Waves
+
 There is also a light and dark theme to choose from. Although AI features have also been enhanced, it currently in testing, and not in full flow, due to issues. There is also a feature to set when you want your screensaver (on the app, of course) to turn on, and the screensaver is bascially a loop of the animated backgrounds.

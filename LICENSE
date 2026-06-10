@@ -1,32 +1,201 @@
-(Note: This license was made as a custom license to fit the creator's choice of license conditions.)
+                                 Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
 
+   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
-(Project page to Textitor: https://www.github.com/gautamritvik/Textitor)
+   1. Definitions.
 
-Copyright (C) 2024, Ritvik Gautam. All rights reserved.
+      "License" shall mean the terms and conditions for use, reproduction,
+      and distribution as defined by Sections 1 through 9 of this document.
 
-Please note that the word “software” in this document means Textitor, which was made by Ritvik Gautam, that the word “modified” in this document means direct modifications and derivative works, and the word “companies/organizations” in this document means the commercial businesses that will use this software (Textitor).
+      "Licensor" shall mean the copyright owner or entity authorized by
+      the copyright owner that is granting the License.
 
-The software this license is directed to, Textitor is subject to absolute NO warranty under applicable law.
+      "Legal Entity" shall mean the union of the acting entity and all
+      other entities that control, are controlled by, or are under common
+      control with that entity. For the purposes of this definition,
+      "control" means (i) the power, direct or indirect, to cause the
+      direction or management of such entity, whether by contract or
+      otherwise, or (ii) ownership of fifty percent (50%) or more of the
+      outstanding shares, or (iii) beneficial ownership of such entity.
 
-The licensee has the absolute freedom to view, modify, and use this software, but directly getting the code from the Textitor app itself (not from the source code, the released app with all the internal info) is STRICTLY prohibited, and if they DO indeed get the code directly from the Textitor app itself, their freedom to view, modify, and use the software shall be revoked, as the direct app code contains many internal information.
+      "You" (or "Your") shall mean an individual or Legal Entity
+      exercising permissions granted by this License.
 
-This license agreement shall be governed by and construed following the laws of the state of Florida in the United States of America. Any disputes arising from this agreement shall be subjected to the jurisdiction of the courts located in the state of Florida in the United States of America. 
+      "Source" form shall mean the preferred form for making modifications,
+      including but not limited to software source code, documentation
+      source, and configuration files.
 
-NOTICE: You can only view, modify, and use this software ONLY if you agree to follow the set of rules in this license agreement. If you do not, please do not view, modify, or use this software in any way. If you have to use this software for office or other purposes, please let your employing company/organization or mandating person/entity know that you don't agree to the license of Textitor, as they have already agreed to the license (for office computing in their offices, if they are a company/organization).
+      "Object" form shall mean any form resulting from mechanical
+      transformation or translation of a Source form, including but
+      not limited to compiled object code, generated documentation,
+      and conversions to other media types.
 
-Permission is granted to any person or entity to view, modify, and use this software only if they work according to the following conditions:
+      "Work" shall mean the work of authorship, whether in Source or
+      Object form, made available under the License, as indicated by a
+      copyright notice that is included in or attached to the work
+      (an example is provided in the Appendix below).
 
-1. Modification and Use
-  If any modified version of this software is released to the public, they have to release the source code to the public for absolutely NO price in ANY currency, and the modifier has no option to sell the modified software for any currency. If someone uses the source code of Textitor/Textitor it self, modify it, and release it to the public, they have to state somewhere that everyone can see and state that they made their based on Ritvik Gautam's Textitor.
-  The licensee cannot, under any circumstances, distribute closed-source versions of the software. Any modified version of this software has to remain open-source under this license.
-2. Commercial Use
-  Suppose any companies or organizations want to use this software for commercial purposes, including using it in any business environment. In that case, they will need to get permission (an agreement, which may include a contact form or email confirmation) from Ritvik Gautam. Still, at the same time, as stated in "1. Modification and Use", the companies/organizations have to keep any modified version of the software and the source code of it free and open-source from their side. They also have to pay a monthly fee. The fee price will vary among different companies/organizations because of the nature and environment the software will be used in (for small businesses, for flexibility, they have to pay ~$50-~$100. As for bigger companies, like Microsoft, it can range from ~$10,000 to more.). How Ritvik Gautam will know if they paid their monthly fee is that every month, they have to give him an email/text message for proof that they’ve successfully paid their monthly fee. Ritvik Gautam will still expect attribution of the software from the companies/organizations. How to follow attribution rules is stated in "3. Attribution".
-  If the companies/organizations fail to pay the fees on time, they will have to pay an extra fee as a penalty (e.g., small companies = ~$50. Big companies = ~$5,000 - ~$10,000+.), and if they don’t pay on time for more than two times in a row, they could have their permission to use Textitor revoked. When the companies/organizations use the software, they have to make at least one open-source contribution to Textitor, like making advancements in the source code or making bug fixes (they can do this on GitHub). They also have to donate to at least one charity of any kind that supports good causes, helps different types of life in need, and more (e.g., St. Judes Children's Research Hospital, Feeding America, Direct Relief, Good 360, United Way Worldwide, etc.) and the amount they have to pay depends on the nature and environment the software is being used in (e.g., small companies = ~$100+. Big companies = ~$1,000+.).
-3. Attribution
-  Any modified released version of the software has to be stated somewhere that everyone can see and state that they made their text processor based on Ritvik Gautam's processor Textitor.
-  Companies/Organizations also have to state somewhere that everyone can see and state that they use Ritvik Gautam's text processor Textitor for office and other purposes.
-4. Liability
-  The software, “as is,” without any warranty of kind, expressed or implied, including but not limited to the warranties of merchantability, fitness for a specific purpose, and noninfringement. This means that if damage has occurred with the system for someone, then Ritvik Gautam is NOT liable for ANY of the damages, especially if it is caused by third-party users (companies/organizations, etc.).
+      "Derivative Works" shall mean any work, whether in Source or Object
+      form, that is based on (or derived from) the Work and for which the
+      editorial revisions, annotations, elaborations, or other modifications
+      represent, as a whole, an original work of authorship. For the purposes
+      of this License, Derivative Works shall not include works that remain
+      separable from, or merely link (or bind by name) to the interfaces of,
+      the Work and Derivative Works thereof.
 
-By using, modifying, or distributing this software, the Licensee automatically agrees to work by the terms of this license.
+      "Contribution" shall mean any work of authorship, including
+      the original version of the Work and any modifications or additions
+      to that Work or Derivative Works thereof, that is intentionally
+      submitted to Licensor for inclusion in the Work by the copyright owner
+      or by an individual or Legal Entity authorized to submit on behalf of
+      the copyright owner. For the purposes of this definition, "submitted"
+      means any form of electronic, verbal, or written communication sent
+      to the Licensor or its representatives, including but not limited to
+      communication on electronic mailing lists, source code control systems,
+      and issue tracking systems that are managed by, or on behalf of, the
+      Licensor for the purpose of discussing and improving the Work, but
+      excluding communication that is conspicuously marked or otherwise
+      designated in writing by the copyright owner as "Not a Contribution."
+
+      "Contributor" shall mean Licensor and any individual or Legal Entity
+      on behalf of whom a Contribution has been received by Licensor and
+      subsequently incorporated within the Work.
+
+   2. Grant of Copyright License. Subject to the terms and conditions of
+      this License, each Contributor hereby grants to You a perpetual,
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+      copyright license to reproduce, prepare Derivative Works of,
+      publicly display, publicly perform, sublicense, and distribute the
+      Work and such Derivative Works in Source or Object form.
+
+   3. Grant of Patent License. Subject to the terms and conditions of
+      this License, each Contributor hereby grants to You a perpetual,
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+      (except as stated in this section) patent license to make, have made,
+      use, offer to sell, sell, import, and otherwise transfer the Work,
+      where such license applies only to those patent claims licensable
+      by such Contributor that are necessarily infringed by their
+      Contribution(s) alone or by combination of their Contribution(s)
+      with the Work to which such Contribution(s) was submitted. If You
+      institute patent litigation against any entity (including a
+      cross-claim or counterclaim in a lawsuit) alleging that the Work
+      or a Contribution incorporated within the Work constitutes direct
+      or contributory patent infringement, then any patent licenses
+      granted to You under this License for that Work shall terminate
+      as of the date such litigation is filed.
+
+   4. Redistribution. You may reproduce and distribute copies of the
+      Work or Derivative Works thereof in any medium, with or without
+      modifications, and in Source or Object form, provided that You
+      meet the following conditions:
+
+      (a) You must give any other recipients of the Work or
+          Derivative Works a copy of this License; and
+
+      (b) You must cause any modified files to carry prominent notices
+          stating that You changed the files; and
+
+      (c) You must retain, in the Source form of any Derivative Works
+          that You distribute, all copyright, patent, trademark, and
+          attribution notices from the Source form of the Work,
+          excluding those notices that do not pertain to any part of
+          the Derivative Works; and
+
+      (d) If the Work includes a "NOTICE" text file as part of its
+          distribution, then any Derivative Works that You distribute must
+          include a readable copy of the attribution notices contained
+          within such NOTICE file, excluding those notices that do not
+          pertain to any part of the Derivative Works, in at least one
+          of the following places: within a NOTICE text file distributed
+          as part of the Derivative Works; within the Source form or
+          documentation, if provided along with the Derivative Works; or,
+          within a display generated by the Derivative Works, if and
+          wherever such third-party notices normally appear. The contents
+          of the NOTICE file are for informational purposes only and
+          do not modify the License. You may add Your own attribution
+          notices within Derivative Works that You distribute, alongside
+          or as an addendum to the NOTICE text from the Work, provided
+          that such additional attribution notices cannot be construed
+          as modifying the License.
+
+      You may add Your own copyright statement to Your modifications and
+      may provide additional or different license terms and conditions
+      for use, reproduction, or distribution of Your modifications, or
+      for any such Derivative Works as a whole, provided Your use,
+      reproduction, and distribution of the Work otherwise complies with
+      the conditions stated in this License.
+
+   5. Submission of Contributions. Unless You explicitly state otherwise,
+      any Contribution intentionally submitted for inclusion in the Work
+      by You to the Licensor shall be under the terms and conditions of
+      this License, without any additional terms or conditions.
+      Notwithstanding the above, nothing herein shall supersede or modify
+      the terms of any separate license agreement you may have executed
+      with Licensor regarding such Contributions.
+
+   6. Trademarks. This License does not grant permission to use the trade
+      names, trademarks, service marks, or product names of the Licensor,
+      except as required for reasonable and customary use in describing the
+      origin of the Work and reproducing the content of the NOTICE file.
+
+   7. Disclaimer of Warranty. Unless required by applicable law or
+      agreed to in writing, Licensor provides the Work (and each
+      Contributor provides its Contributions) on an "AS IS" BASIS,
+      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
+      implied, including, without limitation, any warranties or conditions
+      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
+      PARTICULAR PURPOSE. You are solely responsible for determining the
+      appropriateness of using or redistributing the Work and assume any
+      risks associated with Your exercise of permissions under this License.
+
+   8. Limitation of Liability. In no event and under no legal theory,
+      whether in tort (including negligence), contract, or otherwise,
+      unless required by applicable law (such as deliberate and grossly
+      negligent acts) or agreed to in writing, shall any Contributor be
+      liable to You for damages, including any direct, indirect, special,
+      incidental, or consequential damages of any character arising as a
+      result of this License or out of the use or inability to use the
+      Work (including but not limited to damages for loss of goodwill,
+      work stoppage, computer failure or malfunction, or any and all
+      other commercial damages or losses), even if such Contributor
+      has been advised of the possibility of such damages.
+
+   9. Accepting Warranty or Additional Liability. While redistributing
+      the Work or Derivative Works thereof, You may choose to offer,
+      and charge a fee for, acceptance of support, warranty, indemnity,
+      or other liability obligations and/or rights consistent with this
+      License. However, in accepting such obligations, You may act only
+      on Your own behalf and on Your sole responsibility, not on behalf
+      of any other Contributor, and only if You agree to indemnify,
+      defend, and hold each Contributor harmless for any liability
+      incurred by, or claims asserted against, such Contributor by reason
+      of your accepting any such warranty or additional liability.
+
+   END OF TERMS AND CONDITIONS
+
+   APPENDIX: How to apply the Apache License to your work.
+
+      To apply the Apache License to your work, attach the following
+      boilerplate notice, with the fields enclosed by brackets "[]"
+      replaced with your own identifying information. (Don't include
+      the brackets!)  The text should be enclosed in the appropriate
+      comment syntax for the file format. We also recommend that a
+      file or class name and description of purpose be included on the
+      same "printed page" as the copyright notice for easier
+      identification within third-party archives.
+
+   Copyright 2026 Ritvik Gautam
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
